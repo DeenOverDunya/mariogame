@@ -1,0 +1,70 @@
+.heading
+{
+width: 100%;
+text-align: center;
+color: white;
+font-family: 'DynaPuff', cursive;
+
+}
+
+#h3
+{
+display: inline;
+color: white;
+}
+
+body
+{
+    font-family: 'DynaPuff', cursive;
+}
+
+
+.heading button
+{
+border:1px solid white ;
+}
+
+
+.big_image
+{
+width:50%
+}
+
+#start,#status
+{
+border: 1px solid white;
+font-size: 18px;
+}
+
+h4
+{
+background-color: black;
+color: white;
+line-height: 2;
+margin: 0px;
+}
+
+
+.modal-dialog
+{
+width: 80%;
+}
+
+.instruction_image
+{
+display:inline-block;
+width:40%;
+}
+
+video
+{
+background:url('game_console.png');
+background-size: cover;
+background-position: center;
+padding:25px;
+}
+
+.game_console
+{
+width: 200%;
+}
